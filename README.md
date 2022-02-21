@@ -1,9 +1,10 @@
 # Java-Swing
-this a small Java-Progm show zou how zou can Java-swing with mysql-database
+with this free code you can learn how you can write a jav-swing Desktop application.
 
-this screenshot demostrate this program.
+To run and test this application you must be install locally a mysql-server and make sure that the server is running.
+You can import the file lager.sql by your local mysql database und than you can start the lager.jar file with doppel-klick.
 
-you can import the file lager.sql in your local mysql database und than you can start the lager.jar file with doppel-klick.
+This screenshot demostrate this program.
 
 ![login-maske](https://user-images.githubusercontent.com/47995042/154822187-cda3dcc7-3dbc-4abd-b435-37924e723d5f.PNG)
 
