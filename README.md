@@ -1,7 +1,8 @@
 # Java-Swing
-with this free code you can learn how you can write a jav-swing Desktop application.
+With this free code you can learn how you can write a java-swing Desktop application.
 
 To run and test this application you must be install locally a mysql-server and make sure that the server is running.
+
 You can import the file lager.sql by your local mysql database und than you can start the lager.jar file with doppel-klick.
 
 This screenshot demostrate this program.
